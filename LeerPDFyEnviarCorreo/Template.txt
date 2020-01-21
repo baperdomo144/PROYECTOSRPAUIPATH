@@ -1,0 +1,6 @@
+Buenos días.
+
+Este es el corro de prueba en la fecha {0} .
+
+{1}
+

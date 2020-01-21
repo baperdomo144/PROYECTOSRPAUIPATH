@@ -1,0 +1,63 @@
+INTRODUCCIÓN 
+ 
+Jira  Software  está  diseñado  para  que  todos  los  miembros  de  tu 
+equipo de software puedan planificar, supervisar y publicar un magnífico software, Crea 
+historias de usuario e incidencias, planifica sprints y distribuye tareas entre tu equipo de 
+software Prioriza y analiza el trabajo de tu equipo en su contexto y con una completa 
+visibilidad Mejora el rendimiento del equipo con datos visuales en tiempo real que tu equipo 
+puede emplear. 
+   
+En Beneficiar se realiza la gestión de las áreas de Organización y Métodos (Solicitudes 
+nuevos proyectos, archivos, tecnología y procesos), de forma fácil, eficiente y eficaz a través 
+de la configuración y parametrización de esta solución, la cual permite a los ingenieros 
+resolver cada una de las solicitudes de manera ordenada y dar respuestas acertadas al 
+usuario. 
+Para realizar todas las actividades los proyectos, Jira Software requirió de una configuración 
+determinada teniendo en cuenta las reglas de negocio establecidas por Beneficiar, dicha 
+configuración será detallada a lo largo de este documento. 
+ 
+
+OBJETIVO 
+El objetivo de este documento es registrar la configuración realizada en la herramienta 
+Jira Software para los procesos de Template evolución y optimización, Gestión de 
+incidentes, Solicitudes, Proyecto tradicional. 
+  
+
+PROYECTO 
+  
+GENERALIDADES 
+  
+El  proyecto  configurado  dentro  de  la  herramienta  Jira  Software  cuenta  con  tipos  de 
+incidencias, flujos de trabajo, pantallas, campos, prioridades, entre otras configuraciones 
+adicionales según son requeridas para una correcta parametrización: 
+ 
+ 
+
+  
+
+TIPOS DE INCIDENCIAS Y ESQUEMA DE TIPOS DE INCIDENCIA 
+Se realizó la configuración de 10 tipos de incidencias:  
+
+•  Ajuste menores 
+•  Bug 
+•  Epic  
+•  Incidencia 
+•  Mejora continua 
+•  Plan de pruebas 
+•  Requerimiento 
+•  Story 
+•  Task 
+•  Casos de prueba 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
